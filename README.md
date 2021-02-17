@@ -2,6 +2,6 @@
 Coding exercises for @em-powers
 
 
-participants:
-hrkyoung
-em-powers
+## Participants:
+- hrkyoung
+- em-powers
